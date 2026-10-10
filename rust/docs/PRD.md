@@ -11,7 +11,7 @@ Aprender Rust construindo, com as próprias mãos, uma API REST de tarefas em du
 
 Cada fase está amarrada a capítulos do _The Rust Book_ e só começa quando os critérios da fase anterior forem cumpridos.
 
-**Contexto.** Hoje desenvolvo backend em JavaScript/TypeScript com NestJS e Express. Construir algo próximo do meu dia a dia deixa o domínio familiar e concentra o esforço no que é novo: a linguagem. Escrever primeiro sem framework me obriga a entender o que o Express e o Nest sempre esconderam.
+**Contexto.** Hoje desenvolvo backend em JavaScript/TypeScript com NestJS e Express. Construir algo próximo do meu dia a dia deixa o domínio familiar e concentra o esforço no que é novo: a linguagem. Escrever primeiro sem framework me obriga a entender melhor a linguagem.
 
 **Objetivos**
 
